@@ -5,7 +5,7 @@
 ### 📫 How to reach me: 
 <a href="" target="_blank"><img src="https://as2.ftcdn.net/v2/jpg/03/96/56/19/1000_F_396561934_t1OwjMZHrVY211bHA5uUEAix0F1SyLci.jpg" width="20" height="20"> 
 
-<a href="josecsuptitz@gmail.com" target=”_blank”><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" width="20" height="20">   
+<a href="josecsuptitz@gmail.com" target="_blank"><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" width="20" height="20">   
 
 <a href="https://twitter.com/ThePixelSlime"><img src="https://w7.pngwing.com/pngs/591/906/png-transparent-x-logo-new-twitter-logo.png" width="20" height="20">
 
