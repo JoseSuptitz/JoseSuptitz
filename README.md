@@ -1,4 +1,4 @@
 <h2> Hello!! I’m José 👋 </h2>
 
-É só isso mesmo. Estou estudando Direito!
+Atualmente estou estudando Direito e realizando o curso do Boot.dev em backend e DevOPS.
 
